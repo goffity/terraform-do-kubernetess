@@ -3,7 +3,7 @@ variable "region" {
   default = "spg1"
 }
 variable "k8s_clustername" {
-  default = "clusterwim"
+  default = "tesl-clister"
 }
 variable "k8s_version" {
   default = "1.26.3-do.0"
